@@ -31,8 +31,8 @@
             this.btnIniciar = new System.Windows.Forms.Button();
             this.btnAyuda = new System.Windows.Forms.Button();
             this.pnlInicio = new System.Windows.Forms.Panel();
-            this.btnCerrar = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.btnCerrar = new System.Windows.Forms.Button();
             this.pnlInicio.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -68,6 +68,15 @@
             this.pnlInicio.Size = new System.Drawing.Size(559, 445);
             this.pnlInicio.TabIndex = 2;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(394, 141);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // btnCerrar
             // 
             this.btnCerrar.Location = new System.Drawing.Point(484, 3);
@@ -77,15 +86,6 @@
             this.btnCerrar.Text = "X";
             this.btnCerrar.UseVisualStyleBackColor = true;
             this.btnCerrar.Click += new System.EventHandler(this.btnCerrar_Click);
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(403, 243);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
