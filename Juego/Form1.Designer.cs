@@ -38,7 +38,7 @@
             // btnIniciar
             // 
             this.btnIniciar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnIniciar.Location = new System.Drawing.Point(403, 86);
+            this.btnIniciar.Location = new System.Drawing.Point(219, 97);
             this.btnIniciar.Name = "btnIniciar";
             this.btnIniciar.Size = new System.Drawing.Size(114, 67);
             this.btnIniciar.TabIndex = 0;
